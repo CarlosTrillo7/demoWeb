@@ -1,0 +1,43 @@
+#cabecera{
+margin-top:0px;
+color:white;
+background-color:#0077b6;
+height:30px;
+height:40px;
+font-family: 'Single Day', cursive;
+text-align:center;
+}
+
+#Contenidos{
+border-radius: 15px;
+border:#023e8a 2px solid;
+padding:10px;
+font-family: 'Single Day', cursive;
+}
+
+#Navegacion{
+margin-bottom:5px;
+background-color:#48cae4;
+padding:5px;
+font-family: 'Single Day', cursive;
+}
+
+
+a:hover{
+text-decoration: none;
+color:red;
+}
+
+
+.enlaces:hover{
+text-decoration: none;
+color:green;
+}
+
+#Piepagina{
+margin-top:5px;
+background-color:#03045e;
+color:white;
+padding:1px;
+font-family: 'Single Day', cursive;
+}
